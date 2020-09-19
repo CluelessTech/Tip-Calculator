@@ -1,4 +1,4 @@
-package com.priyankgandhi.tipcalculator;
+package com.cluelesstech.tipcalculator;
 
 import android.os.Bundle;
 import android.view.View;
