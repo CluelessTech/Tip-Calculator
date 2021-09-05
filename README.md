@@ -21,16 +21,15 @@ Creating  a simple **Tip Calculator** app. In which we will calculate the tip fr
 ```
     if (!billAmount.getText().toString().equals("")) 
     {
-		enterBillFloat = Float.parseFloat(billAmount.getText().toString());
-		result = enterBillFloat * seekBarPercentage / 100;
-		StringBuilder stringBuilder = new StringBuilder();
-		stringBuilder.append("Your tip will be Rs." + String.valueOf(result) + "\n");
-		stringBuilder.append("Total bill amount is Rs." + String.valueOf(enterBillFloat + result));
-		resultTotal.setText(stringBuilder);
-	} else 
-	{
-		Toast.makeText(MainActivity.this, "Please enter bill amount", Toast.LENGTH_LONG).show();
-	}
+	enterBillFloat = Float.parseFloat(billAmount.getText().toString());
+	result = enterBillFloat * seekBarPercentage / 100;
+	StringBuilder stringBuilder = new StringBuilder();
+	stringBuilder.append("Your tip will be Rs." + String.valueOf(result) + "\n");
+	stringBuilder.append("Total bill amount is Rs." + String.valueOf(enterBillFloat + result));
+	resultTotal.setText(stringBuilder);
+    } else {
+	Toast.makeText(MainActivity.this, "Please enter bill amount", Toast.LENGTH_LONG).show();
+    }
 
 ```
 ##  Watch the Full video on Youtube 
