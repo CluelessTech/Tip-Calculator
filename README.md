@@ -3,11 +3,18 @@
 
 
 Creating  a simple **Tip Calculator** app. In which we will calculate the tip from the given percentage 
- ![Tip Calculator](https://cluelesstech.github.io/Tip-Calculator/Tip%20Calculator%201.png =150x300) ![Tip Calculator](https://cluelesstech.github.io/Tip-Calculator/Tip%20Calculator%202.png =150x300)    ![Tip Calculator](https://cluelesstech.github.io/Tip-Calculator/Tip%20Calculator%203.png =150x300)  |
-|--|--|--|
 
 
+<table>
+  <tr>
+    <td> <img src="https://cluelesstech.github.io/Tip-Calculator/Tip%20Calculator%201.png"  alt="1" width = 360px height = 640px ></td>
+    <td><img src="https://cluelesstech.github.io/Tip-Calculator/Tip%20Calculator%202.png" alt="2" width = 360px height = 640px></td>
+    <td><img src="https://cluelesstech.github.io/Tip-Calculator/Tip%20Calculator%203.png" alt="2" width = 360px height = 640px></td>
+   </tr> 
  
+</table>
+
+
 
 
 # Main Activity
