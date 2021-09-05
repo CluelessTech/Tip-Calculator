@@ -15,6 +15,11 @@ Creating  a simple **Tip Calculator** app. In which we will calculate the tip fr
 </table>
 
 
+# Description 
+
+Here user need to enter bill amount and then he/she need to select the percentage of bill amount which he/she wants to give as tip.
+For example: If bill amount is 1000 and customer want to give 10% of 1000 as tip then it would select 10 in seekbar and after that need to click calculate button which would give 10% of 1000 i.e 100 as tip amount.
+
 
 
 # Main Activity
