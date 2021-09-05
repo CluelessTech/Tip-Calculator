@@ -18,7 +18,7 @@ Creating  a simple **Tip Calculator** app. In which we will calculate the tip fr
 
 
 # Main Activity
-```
+```ruby
     if (!billAmount.getText().toString().equals("")) 
     {
 	enterBillFloat = Float.parseFloat(billAmount.getText().toString());
